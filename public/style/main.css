@@ -1,0 +1,173 @@
+html {
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: 700;
+    font-size: 10px;
+    color: #272727;
+}
+
+body {
+    background-image: url("./images/topography.svg"), linear-gradient(110deg, #f93d66, #6d47d9);
+    background-size: 340px, auto;
+    min-height: calc(100vh - 100px);
+    margin: 50px;
+    background-position: fixed;
+}
+
+.wrapper {
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+.heading {
+    margin: auto 0;
+    text-align: center;
+    font-weight: 900;
+    font-size: 5em;
+    word-spacing: .7rem;
+    letter-spacing: .5rem;
+    text-transform: uppercase;
+    display: inline-block;
+    background-image: linear-gradient(to right, #7ed56f, #28b485);
+    -webkit-background-clip: text;
+    color: transparent;
+    transition: all .3s;
+}
+.heading:hover {
+    transform: skewY(2deg) skewX(5deg) scale(1.1);
+    text-shadow: 0.5rem 1rem 2rem rgba(0, 0, 0, 0.2); }
+
+
+/* header */
+
+header {
+    margin: auto 0;
+    text-align: center;
+    padding: 5em;
+}
+
+
+
+header input {
+    position: relative;
+    margin: auto 0;
+    width: 80%;
+    height: 2em;
+    border-top: 0px;
+    border-radius: 3px;
+    font-size: 1.5em;
+    background: none;
+}
+
+header select {
+    position: relative;
+    display: block;
+    margin: auto;
+    width: 80%;
+    height: 2em;
+    border-bottom: 0px;
+    border-radius: 3px;
+    font-size: 14px;
+    box-shadow: 0px 1em 2em -1.5em rgba(0, 0, 0, 0.5);
+    background: none;
+    margin-top: 1em;
+}
+
+header select>option {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    display: block;
+    overflow: hidden;
+    transition: all 1s ease-out;
+}
+
+/* feeds */
+
+.news {
+    text-align: center;
+    width: 100%;
+}
+
+.albums {
+    width: 90%;
+    max-width: 1240px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-rows: auto;
+    grid-gap: 20px;
+}
+
+@media (min-width: 40em) {
+    .albums {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (min-width: 60em) {
+    .albums {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (min-width: 80em) {
+    .albums {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+.album {
+    background: rgba(255, 255, 255, 0.2);
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    position: relative;
+    top: 0;
+    transition: all 0.1s ease-in;
+}
+
+.album:hover {
+    top: -2px;
+    box-shadow: 0 4px 5px rgba(29, 27, 27, 0.3);
+}
+
+.album article {
+    padding: 20px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.album h2 {
+    font-size: 20px;
+    margin: 0;
+    color: #333;
+}
+
+.album a {
+    flex: 1;
+    line-height: 1.5;
+    font-size: 1.5rem;
+    
+    text-decoration: none;
+    padding: .2rem;
+}
+
+.album span {
+    font-size: 14px;
+    color: #272727;
+    letter-spacing: 0.05em;
+    margin: 2em 0 0 0;
+}
+
+.album img {
+    width: 100%;
+    height: auto;
+}
