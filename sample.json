@@ -1,0 +1,225 @@
+{
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [{
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "The Latest: Authorities release names of slain inmates",
+        "description": "The Latest on prison riots that killed seven inmates in South Carolina (all times local): 1:10 p.m. Authorities have released the names of the seven inmates killed by fellow prisoners during a riot at a South Carolina maximum-security prison. The inmates were…",
+        "url": "http://abcnews.go.com/US/wireStory/latest-coroner-inmates-slashed-stabbed-beaten-54498815",
+        "urlToImage": "https://s.abcnews.com/images/US/WireAP_4db09ca963344c758d50336c75064ed7_16x9_992.jpg",
+        "publishedAt": "2018-04-16T17:13:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Yahoo.com"
+        },
+        "author": null,
+        "title": "Former first lady Barbara Bush in failing health, won't seek additional medical treatment, spokesman says",
+        "description": null,
+        "url": "https://www.yahoo.com/news/former-first-lady-barbara-bush-032234033.html",
+        "urlToImage": null,
+        "publishedAt": "2018-04-16T16:42:21Z"
+    }, {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "CBS News",
+        "title": "Trump hosts Florida roundtable on tax reform -- live stream",
+        "description": "The president praised Republican tax cuts passed last year and said they have had a positive impact on small businesses in Florida",
+        "url": "https://www.cbsnews.com/news/trump-hosts-florida-roundtable-on-tax-reform-live-stream/",
+        "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/04/16/9639bf2d-8154-4f9d-a222-7ddb1afcf3a1/thumbnail/1200x630/9fbf00a28a86585dc63c80c154da782b/rtx5qw45.jpg",
+        "publishedAt": "2018-04-16T16:37:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Marketwatch.com"
+        },
+        "author": "Emily Bary",
+        "title": "The ban on US companies selling to ZTE could hurt this stock and help others",
+        "description": "Shares of optical names Acacia Communications, Lumentum, Finisar, and Oclaro are getting hammered after a report said the U.S. would ban Chinese firm ZTE from buying U.S.-made components.",
+        "url": "https://www.marketwatch.com/story/the-ban-on-us-companies-selling-to-zte-could-hurt-this-stock-and-help-others-2018-04-16",
+        "urlToImage": "http://s.marketwatch.com/public/resources/MWimages/MW-FH525_zte030_ZG_20170307194438.jpg",
+        "publishedAt": "2018-04-16T16:32:00Z"
+    }, {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": null,
+        "title": "Two black men were arrested at Starbucks. CEO now calling for 'unconscious bias' training.",
+        "description": "Starbucks's chief executive unequivocally apologized Monday for what he called “reprehensible” circumstances that led to the arrest of two black men at a Philadelphia store.",
+        "url": "https://www.washingtonpost.com/news/business/wp/2018/04/16/two-black-men-were-arrested-at-starbucks-ceo-now-calling-for-unconscious-bias-training/",
+        "urlToImage": "https://www.washingtonpost.com/resizer/0yS_wcLhpCSO532hcqpZHOxmUCs=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VHJP4JW4BMYUNOPHDHT2SRNXHA.jpg",
+        "publishedAt": "2018-04-16T16:29:21Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Cbslocal.com"
+        },
+        "author": "CBSDenver",
+        "title": "Teachers Skip School, March To Call For More Funding",
+        "description": "Hundreds of teachers skipped school, marched across the Denver metro area and gathered at the state Capitol on Monday morning to get their message across: more funding for schools.",
+        "url": "http://denver.cbslocal.com/2018/04/16/teachers-state-capitol-school-funding/",
+        "urlToImage": "https://cbsdenver.files.wordpress.com/2018/04/teachers-walkout.jpg?w=1440",
+        "publishedAt": "2018-04-16T16:27:33Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Sbnation.com"
+        },
+        "author": "Christian D'Andrea",
+        "title": "Boston Marathon results 2018: USA's Desiree Linden, Japan's Yuki Kawauchi win",
+        "description": "Linden and Kawaucki ended 30-year droughts for their respective nations.",
+        "url": "https://www.sbnation.com/2018/4/16/17235044/2018-boston-marathon-results-mens-womens",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/3j5MUSW7p_zsQ2xfMO8tH_zIAy8=/0x0:1119x586/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10661437/Screen_Shot_2018_04_16_at_11.12.56_AM.png",
+        "publishedAt": "2018-04-16T16:23:00Z"
+    }, {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": null,
+        "title": "The Latest: France says allies focused on ending Syria war",
+        "description": "The Latest on the Syrian conflict (all times local):",
+        "url": "https://www.washingtonpost.com/politics/congress/the-latest-spokeswoman-says-trump-still-wants-syria-exit/2018/04/15/c7f7f168-411a-11e8-b2dc-b0a403e4720a_story.html",
+        "urlToImage": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+        "publishedAt": "2018-04-16T16:08:17Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Npr.org"
+        },
+        "author": "Laurel Wamsley",
+        "title": "US Pastor Goes On Trial In Turkey, Further Straining Relations",
+        "description": "Andrew Brunson faces up to 35 years in prison on charges of aiding groups that Turkey blames for a failed coup in 2016. He is among thousands accused of having links to cleric Fethullah Gulen.",
+        "url": "https://www.npr.org/sections/thetwo-way/2018/04/16/602830721/u-s-pastor-goes-on-trial-in-turkey-further-straining-relations",
+        "urlToImage": "https://media.npr.org/assets/img/2018/04/16/gettyimages-946523270_wide-f71efb81569c5b1c48c4cc641ccfb4176d1289d3.jpg?s=1400",
+        "publishedAt": "2018-04-16T15:36:31Z"
+    }, {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": "Associated Press",
+        "title": "Man asks clerk about stealing beer before stealing beer, gets arrested just like she said",
+        "description": "A Florida man asked the store clerk, \"What would happen if I stole some beer?\"",
+        "url": "http://www.foxnews.com/food-drink/2018/04/16/man-asks-clerk-about-stealing-beer-before-stealing-beer-gets-arrested-just-like-said.html",
+        "urlToImage": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/food-drink/2018/04/16/man-asks-clerk-about-stealing-beer-before-stealing-beer-gets-arrested-just-like-said/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1523891645829.jpg?ve=1",
+        "publishedAt": "2018-04-16T15:18:44Z"
+    }, {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": null,
+        "title": "Suspected Toronto serial killer charged with 8th murder",
+        "description": null,
+        "url": "https://www.cnn.com/2018/04/16/americas/toronto-serial-killer-murder/index.html",
+        "urlToImage": null,
+        "publishedAt": "2018-04-16T15:14:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Variety.com"
+        },
+        "author": "Variety Staff, Variety Staff",
+        "title": "Carrie Underwood Makes First Public Appearance Since Injury on ACM Awards (Watch)",
+        "description": "Carrie Underwood made her first public appearance since suffering an accident at home in November that left her with a broken wrist and 40 to 50 stitches in her face — and on the basis of the perfo…",
+        "url": "http://variety.com/2018/music/news/carrie-underwood-makes-first-public-appearance-since-gruesome-facial-injury-on-acm-awards-1202753783/",
+        "urlToImage": "https://pmcvariety.files.wordpress.com/2018/04/carrie-underwood.jpg?w=700&h=393&crop=1",
+        "publishedAt": "2018-04-16T15:07:31Z"
+    }, {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": null,
+        "title": "'Scary' lung disease now afflicts more women than men in US",
+        "description": "Chronic obstructive pulmonary disease, or COPD, traditionally considered a man’s disease, now kills more women in the United States than men.",
+        "url": "https://www.nbcnews.com/health/womens-health/scary-lung-disease-now-afflicts-more-women-men-u-s-n866286",
+        "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2018_16/2400326/180416-inez-shakman-al-1008_7aa871a4ea2bf8fda76e87f0d45742ff.1200;630;7;70;5.jpg",
+        "publishedAt": "2018-04-16T14:47:00Z"
+    }, {
+        "source": {
+            "id": "time",
+            "name": "Time"
+        },
+        "author": null,
+        "title": "Suspect at Large After Binghamton University Student Stabbed to Death",
+        "description": null,
+        "url": "http://time.com/5241375/suspect-at-large-after-binghamton-university-student-stabbed-to-death/",
+        "urlToImage": null,
+        "publishedAt": "2018-04-16T14:22:31Z"
+    }, {
+        "source": {
+            "id": "reuters",
+            "name": "Reuters"
+        },
+        "author": null,
+        "title": "Merkel's tougher Russia stance meets resistance in Germany",
+        "description": null,
+        "url": "https://www.reuters.com/article/us-germany-russia/merkels-tougher-russia-stance-meets-resistance-in-germany-idUSKBN1HN1XU",
+        "urlToImage": null,
+        "publishedAt": "2018-04-16T14:14:30Z"
+    }, {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": null,
+        "title": "Tornado sideswipes a North Carolina TV station just as it goes on the air",
+        "description": "The tornado knocked out power and communications at WFMY and caused significant damage just one neighborhood away.",
+        "url": "https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/04/16/a-tornado-side-swiped-this-north-carolina-tv-station-just-as-it-went-on-air/",
+        "urlToImage": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/Wires/Videos/201804/Reuters/Images/2018-04-16T122314Z_1_OV8BOQ3MN_RTRMADC_0_NORTHCAROLINA-WEATHER-DAMAGE-ROUGH-CUT.jpg?t=20170517",
+        "publishedAt": "2018-04-16T13:59:57Z"
+    }, {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Ari Natter, Jennifer A Dlouhy",
+        "title": "EPA Chief of Staff Approved Raises for Top Aides, Report Finds",
+        "description": "EPA Administrator Scott Pruitt’s chief of staff signed off on controversial raises worth tens of thousands of dollars each for three employees, the agency’s internal watchdog said in an interim report set to be released Monday.",
+        "url": "https://www.bloomberg.com/news/articles/2018-04-16/epa-chief-of-staff-approved-raises-for-top-aides-report-finds",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibjCef_D_G7c/v1/1200x874.jpg",
+        "publishedAt": "2018-04-16T13:37:11Z"
+    }, {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "https://www.facebook.com/danbalzwapo",
+        "title": "Poll: Democrats' advantage in midterm election support is shrinking",
+        "description": "The gap among registered voters is tightening as President Trump’s low approval rating inches up. Gun policy could be a wild card in House elections, the poll shows.",
+        "url": "https://www.washingtonpost.com/politics/poll-democrats-advantage-in-midterm-elections-has-been-cut-more-than-half/2018/04/15/5450d99e-3f6e-11e8-8d53-eba0ed2371cc_story.html",
+        "urlToImage": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2018/04/15/National-Politics/Images/2018-03-20T191416Z_1849603176_RC1F12428040_RTRMADP_3_USA-IMMIGRATION.jpg?t=20170517",
+        "publishedAt": "2018-04-16T11:06:19Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Bbc.com"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Russian reporter Borodin dead after mystery fall",
+        "description": "Maxim Borodin wrote about the deaths of mercenaries in Syria and was found below his flat.",
+        "url": "http://www.bbc.com/news/world-europe-43781351",
+        "urlToImage": "https://ichef-1.bbci.co.uk/news/1024/branded_news/120BF/production/_100891937_borodin.jpg",
+        "publishedAt": "2018-04-16T10:07:05Z"
+    }, {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "https://www.facebook.com/CindyBoren",
+        "title": "Boston Marathon 2018 live: How to watch, viewer's guide and race times",
+        "description": "Conditions for the 30,000 runners are less than ideal, with heavy rain and strong winds dropping temperatures for the 122nd running of the race.",
+        "url": "https://www.washingtonpost.com/news/sports/wp/2018/04/16/boston-marathon-2018-live-how-to-watch-viewers-guide-and-race-times/",
+        "urlToImage": "https://www.washingtonpost.com/resizer/3ExorUMn_wTCu5CRRP9_MXwksW0=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PLBH4M5J5I34FI3AKTRGZG6ZL4.jpg",
+        "publishedAt": "2018-04-16T04:05:29Z"
+    }]
+}
