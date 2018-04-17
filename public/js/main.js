@@ -3,7 +3,7 @@ document.getElementById('source').addEventListener('change', getBySource);
 document.getElementById('search').addEventListener('change', getBySearch);
 
 //Api key
-let API = `20249eb9150a4d4990850cd0dc1e96ba`;
+let API = `ADD YOUR API KEY`;
 
 //dummp data for testing
 let dummyUrl = `sample.json`
