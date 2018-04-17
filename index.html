@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="public/style/main.css">
+    <title>Amaz | Headdlines</title>
+</head>
+
+<body>
+    <div class="wrapper">
+        <h1 class="heading"> Top news Headlines </h1>
+        <header>
+
+            <input id="search" class="search" type="text" name="search" placeholder="Search..">
+
+
+            <div class="">
+                <div>
+                    <select id="country" name="country">
+                        <option value="" disabled selected> Choose country</option>
+                        <option value="us">United State</option>
+                        <option value="ng">Nigeria</option>
+                        <option value="ca">Canada</option>
+                        <option value="cn">China</option>
+                        <option value="fr">France</option>
+                        <option value="eg">Egypt</option>
+                        <option value="za">South Africa</option>
+                    </select>
+                </div>
+                
+                <div>
+                    <select id="source" name="source">
+                        <option value="" disabled selected> Choose source </option>
+                        <option value="al-jazeera-english">Al-jazeera</option>
+                        <option value="bbc-news">BBC</option>
+                        <option value="cnn">CNN</option>
+                        <option value="cnbc">CNBC</option>
+                        <option value="espn">ESPN</option>
+                        <option value="google-news">GOOGLE NEWS</option>
+                        <option value="techcrunch">TECHCRUNCH</option>
+                        <option value="wired">WIRED</option>
+                    </select>
+                </div>
+            </div>
+
+        </header>
+
+        <hr>
+
+        <div id="result" class="news"></div>
+        <div class="albums"></div>
+
+    </div>
+
+
+
+    <script src="public/js/fetch.js"></script>
+    <script src="public/js/promise.js"></script>
+    <script src="public/js/idb.js"></script>
+    <script src="public/js/util.js"></script>
+    <script src="public/js/main.js"></script>
+    <script src="public/js/app.js"></script>
+</body>
+
+</html>
