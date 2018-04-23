@@ -1,0 +1,29 @@
+{
+  "name": "headlines",
+  "version": "1.0.0",
+  "description": "Builing progressive web app for news headlines using Newsapi and materialize css.",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server ./ -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devamaz/Headlines.git"
+  },
+  "keywords": [
+    "News",
+    "pwa",
+    "progressive",
+    "web",
+    "app"
+  ],
+  "author": "Amaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devamaz/Headlines/issues"
+  },
+  "homepage": "https://github.com/devamaz/Headlines#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
